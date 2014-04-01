@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/watilde/sushi/issues"
   },
-  "homepage": "https://github.com/watilde/sushi"
+  "homepage": "https://github.com/watilde/sushi",
+  "dependencies": {
+    "inquirer": "^0.4.1"
+  }
 }
